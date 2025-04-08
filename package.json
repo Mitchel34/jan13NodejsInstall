@@ -1,0 +1,19 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "simple node project",
+  "main": "asyncAwait.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mitchel34/jan13NodejsInstall.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mitchel34/jan13NodejsInstall/issues"
+  },
+  "homepage": "https://github.com/Mitchel34/jan13NodejsInstall#readme"
+}
